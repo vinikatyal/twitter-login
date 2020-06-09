@@ -20,7 +20,4 @@ For creating React app we have used [create-react-app](https://github.com/facebo
     * `npm install`
     * `gulp develop`
     
-# License
-
-react-node-twitter-login is released under [MIT License](https://opensource.org/licenses/MIT).
 
